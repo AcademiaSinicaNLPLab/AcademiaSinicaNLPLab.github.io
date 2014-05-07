@@ -31,3 +31,29 @@ Redesigned by
 
 - [Maxis Kao](http://doraemon.iis.sinica.edu.tw/maxis/)
 
+
+Guide to modify this page
+---
+
+1. clone this repository
+
+	```sh
+	git clone git@github.com:AcademiaSinicaNLPLab/AcademiaSinicaNLPLab.github.io.git
+	cd AcademiaSinicaNLPLab.github.io
+	```
+2. make some modification
+
+3. push to github
+
+	```sh
+	git add .								# add files modified
+	git commit -m "awesome modification"	# leave commit message
+	git push origin master
+	```
+	
+	if you failed to push to github, pull the newest version first
+	```sh
+	git pull origin master
+	```
+
+4. Access [academiasinicanlplab.github.io](http://academiasinicanlplab.github.io), have fun :P
