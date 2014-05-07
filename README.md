@@ -32,7 +32,7 @@ Redesigned by
 - [Maxis Kao](http://doraemon.iis.sinica.edu.tw/maxis/)
 
 
-Guide to modify this page
+Guide to modify this website
 ---
 
 1. clone this repository
