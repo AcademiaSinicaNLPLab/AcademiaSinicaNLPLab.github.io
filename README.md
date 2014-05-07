@@ -1,4 +1,9 @@
-## This is a static page for Academia Sinica NLPLab
+### A static site for Academia Sinica NLPLab
+
+Host
+---
+
+- [doraemon.iis.sinica.edu.tw](http://doraemon.iis.sinica.edu.tw)
 
 
 Credits
@@ -24,5 +29,5 @@ Credits
 Redesigned by
 ---
 
-Maxis Kao
+- [Maxis Kao](http://doraemon.iis.sinica.edu.tw/maxis/)
 
