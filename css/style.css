@@ -996,22 +996,30 @@
 	#projects 
 	{
 	}
-		#projects .description
+		#projects article .description
 		{
 			text-align: left;
+			min-height: 96px;
 		}
-			#projects .description span
+			#projects article .description span
 			{
 				border-bottom: 1px dashed #428bca;
 				color: #428bca;
 				font-size: 0.8em;
-
+				white-space: nowrap;
 			}
 
 		#projects article a 
 		{
 			overflow: hidden;
+			
 		}
+
+		#projects article .image-full 
+		{
+			margin: -3em 1em 3em -3em!important;
+		}
+
 			#projects article a img
 			{
 				
