@@ -1,4 +1,5 @@
-### A static site for Academia Sinica NLPLab
+A static site for Academia Sinica NLPLab
+---
 
 #### Host
 
@@ -24,9 +25,21 @@
 	git push origin master
 	```
 	
-	if you failed to push to github, pull the newest version first
+	if you got the following error message, run this script to pull the newest version first!
 	```sh
 	git pull origin master
+	```
+	
+	> `git push` error message
+	```sh
+	To git@github.com:AcademiaSinicaNLPLab/AcademiaSinicaNLPLab.github.io.git
+	 ! [rejected]        master -> master (fetch first)
+	error: failed to push some refs to 'git@github.com:AcademiaSinicaNLPLab/AcademiaSinicaNLPLab.github.io.git'
+	hint: Updates were rejected because the remote contains work that you do
+	hint: not have locally. This is usually caused by another repository pushing
+	hint: to the same ref. You may want to first integrate the remote changes
+	hint: (e.g., 'git pull ...') before pushing again.
+	hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 	```
 
 4. Access [academiasinicanlplab.github.io](http://academiasinicanlplab.github.io), have fun :P
@@ -62,10 +75,7 @@
 
 
 
-
-
-Credits
----
+#### Credits
 
 - Template
 
@@ -84,7 +94,6 @@ Credits
 
 		
 		
-Redesigned by
----
+#### Redesigned by
 
 - [Maxis Kao](http://doraemon.iis.sinica.edu.tw/maxis/)
