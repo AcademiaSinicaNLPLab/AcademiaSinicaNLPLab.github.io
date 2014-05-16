@@ -15,7 +15,7 @@ A static site for Academia Sinica NLPLab
 	git clone git@github.com:AcademiaSinicaNLPLab/AcademiaSinicaNLPLab.github.io.git
 	cd AcademiaSinicaNLPLab.github.io
 	```
-2. make some modification
+2. make some modifications
 
 3. push to github
 
