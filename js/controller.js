@@ -5,10 +5,10 @@ angular.module('labapp', [])
     $scope.alumnusMemberArray = [];
 
     function compareOrder(a, b) {
-        if(a.order > b.order) {
+        if(parseInt(a.order) > parseInt(b.order)) {
             return -1;
         }
-        else if(a.order < b.order) {
+        else if(parseInt(a.order) < parseInt(b.order)) {
             return 1;
         }
         return 0;
