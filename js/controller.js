@@ -6,10 +6,10 @@ angular.module('labapp', [])
 
     function compareOrder(a, b) {
         if(parseInt(a.order) > parseInt(b.order)) {
-            return -1;
+            return 1;
         }
         else if(parseInt(a.order) < parseInt(b.order)) {
-            return 1;
+            return -1;
         }
         return 0;
     }
