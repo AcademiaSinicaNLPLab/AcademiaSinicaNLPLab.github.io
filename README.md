@@ -12,7 +12,7 @@ A static site for Academia Sinica NLPLab
 1. clone this repository
 
 	```sh
-	git clone git@github.com:AcademiaSinicaNLPLab/AcademiaSinicaNLPLab.github.io.git
+	git clone https://github.com/AcademiaSinicaNLPLab/AcademiaSinicaNLPLab.github.io.git
 	cd AcademiaSinicaNLPLab.github.io
 	```
 2. make some modifications
